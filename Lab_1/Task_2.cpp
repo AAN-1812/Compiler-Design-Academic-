@@ -18,7 +18,7 @@ void findOperators(string expr) {
 
     for (int i = 0; i < expr.length(); i++) {
 
-        if (expr[i] == '+' || expr[i] == '-' || expr[i] == '*' || expr[i] == '/' || expr[i] == '=') {
+        if (expr[i] == '+' || expr[i] == '-' || expr[i] == '*' || expr[i] == '/' || expr[i] == '%' expr[i] == '=') {
 
             count++;
             cout << "operator" << count << " = " << expr[i] << endl;
@@ -42,3 +42,4 @@ int main() {
 
     return 0;
 }
+
