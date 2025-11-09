@@ -1,0 +1,10 @@
+main
+num1
+1apple
+return
+_hello
+for
+x123
+int
+apple#
+while
