@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1763279416 source:c:\users\dell\downloads\fall 25-26\compiler design\mid\lab\lab4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+
